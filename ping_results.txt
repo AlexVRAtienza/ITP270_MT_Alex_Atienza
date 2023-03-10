@@ -1,0 +1,5 @@
+PING google.com (142.251.163.139) 56(84) bytes of data.
+
+--- google.com ping statistics ---
+5 packets transmitted, 0 received, 100% packet loss, time 4103ms
+
